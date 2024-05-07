@@ -1,0 +1,34 @@
+/* Add styling as needed for customization */
+.hidden {
+  display: none;
+}
+body{
+  background-color: #FAF9F6;
+}
+h2 {
+  border: 1px solid black;
+  margin-bottom: 15px;
+  text-align: center;
+  width: 90%;
+  height: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  background-color: grey;
+}
+p {
+  border: 1px solid black;
+  background-color: grey;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+
+}
+h1{
+  background-color: orange;
+}
